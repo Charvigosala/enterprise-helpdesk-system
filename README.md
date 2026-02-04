@@ -30,19 +30,21 @@ To setup phpmailer open `mailer.php` in a code or text editor, update with email
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img1.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img2.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img3.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img4.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img5.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img6.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img7.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img8.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img9.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img10.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img11.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img12.png" >
-  <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img13.png" >
+  <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img1.png">
+  <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img2.png">
+  <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img3.png">
+  <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img4.png">
+  <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img5.png">
+  <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img6.png">
+  <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img7.png">
+  <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img8.png">
+   <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img9.png">
+    <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img10.png">
+     <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img11.png">
+      <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img12.png">
+       <img src="https://github.com/Charvigosala/enterprise-helpdesk-system/blob/main/img13.png">
+         
+ <img src="https://github.com/debajyotiguha11/HelpDesk/blob/master/images/img13.png" >
 </p>
 
 ## Contribute
