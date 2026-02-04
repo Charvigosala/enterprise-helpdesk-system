@@ -59,7 +59,9 @@ Follow these steps:
 - Send a pull request.
 
 ## Author
-***[Debjyoti Guha](https://github.com/debajyotiguha11/)***
+***Customized and documented by CharviGosala***  
+(Base project inspired from debajyotiguha11/HelpDesk)
+
 
 ## Credit
 ***[PHPMailer](https://github.com/PHPMailer/PHPMailer)***
