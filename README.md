@@ -60,7 +60,7 @@ Follow these steps:
 
 ## Author
 ***Customized and documented by CharviGosala and battulacharithayadav***  
-(Base project inspired from debajyotiguha11/HelpDesk)
+(Base project inspired from debajyotiguha's gitproject)
 
 
 ## Credit
