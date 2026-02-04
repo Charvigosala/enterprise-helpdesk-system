@@ -1,6 +1,7 @@
 {
   "name": "Start on Heroku: PHP",
   "description": "Ticketing software for effortless customer support",
-  "repository": "https://github.com/debajyotiguha11/HelpDesk",
+  "repository": "https://github.com/Charvigosala/enterprise-helpdesk-system",
+
   "addons": []
 }
