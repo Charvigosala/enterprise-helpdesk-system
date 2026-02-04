@@ -59,7 +59,7 @@ Follow these steps:
 - Send a pull request.
 
 ## Author
-***Customized and documented by CharviGosala***  
+***Customized and documented by CharviGosala and battulacharithayadav***  
 (Base project inspired from debajyotiguha11/HelpDesk)
 
 
